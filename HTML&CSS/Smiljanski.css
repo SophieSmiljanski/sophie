@@ -1,6 +1,7 @@
 h1
  {
   text-decoration:underline;
+  font: red;
  }
 ol
  {
@@ -11,4 +12,5 @@ table, td
   border-collapse:collapse;
   border-style:solid;
   border-color:black;
+  
  }
