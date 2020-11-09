@@ -1,0 +1,35 @@
+body
+ {
+  background-color: grey;
+  font-family:Helvetica,Arial;
+ }
+h1
+ {
+  color:#15a4d5
+  font-size:18pt;
+ }
+h2
+ {
+  font-size:13pt;
+  text-decoration: underline;
+ }
+
+#rechts
+ {
+  float:right;
+ }
+header
+ {
+  width:950px;
+  height:200px;
+ }
+main
+ {
+  width:950px;
+  height:450px;
+ }
+footer
+ {
+  width: 950ox;
+  height:25px;
+ }

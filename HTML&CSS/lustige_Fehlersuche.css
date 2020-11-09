@@ -1,0 +1,19 @@
+body
+ {
+  background-color:#ffffff;
+  color:#000000;
+ }
+table
+ {
+  border:8px;
+  padding: 20px;
+ }
+hr
+ {
+  align: left;
+  width:300px
+ }
+.rechts
+ {
+  text-align: right;
+ }
